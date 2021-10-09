@@ -14,6 +14,8 @@ import javafx.stage.Stage;
 import model.entities.Department;
 
 public class DepartmentListController implements Initializable {
+	
+	
 
 	@FXML
 	private TableView<Department> tableViewDepartment;
